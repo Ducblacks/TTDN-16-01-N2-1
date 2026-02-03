@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   Hệ thống quản lý nhân sự, khách hàng và công việc trên nền tảng Odoo 15
+   Hệ thống quản lý nhân sự, chấm công và tính lương trên nền tảng Odoo 15
 </h2>
 <div align="center">
     <p align="center">
@@ -126,9 +126,13 @@ Ngoài ra có thể thêm mổ số parameters như:
 
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
 
+
 ##  5. Poster
+
 <img width="562" height="806" alt="image" src="https://github.com/user-attachments/assets/417584be-4e2a-42d4-8e4c-dafd694f005a" />
-## 📞 6. Liên hệ
+
+
+## 6. Liên hệ
 - 👨‍🎓 **Sinh viên thực hiện**: Nguyễn Tiến Thái - Nguyễn Việt Đức - Lù Ngọc Tân
 - 🎓 **Khoa**: Công nghệ thông tin – Đại học Đại Nam
 - 📧 **Email**: nguyendaophucnguyen13@gmail.com
