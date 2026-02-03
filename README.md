@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   Hệ thống quản lý nhân sự, khách hàng và công việc trên nền tảng Odoo 15
+   Hệ thống quản lý nhân sự, chấm công và tính lương trên nền tảng Odoo 15
 </h2>
 <div align="center">
     <p align="center">
